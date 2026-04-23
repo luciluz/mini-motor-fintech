@@ -1,0 +1,20 @@
+# Credenciales y configuración local
+.env
+
+# Go: Binarios
+/api-go/api-go
+/api-go/main
+
+# C++: Artefactos de compilación y CMake
+/core-cpp/build/
+/core-cpp/bin/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.out
+
+# Editores y Sistema Operativo
+.vscode/
+.idea/
+*.swp
+*~
